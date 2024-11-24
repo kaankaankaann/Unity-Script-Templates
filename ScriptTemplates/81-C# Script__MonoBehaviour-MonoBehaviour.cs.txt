@@ -1,0 +1,12 @@
+using UnityEngine;
+
+namespace Template
+{
+    public class #SCRIPTNAME# : MonoBehaviour
+    {
+        private void Awake()
+        {
+        }
+    }
+}
+

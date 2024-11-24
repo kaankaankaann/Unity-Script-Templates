@@ -1,0 +1,12 @@
+using UnityEngine;
+
+namespace Template
+{
+    [CreateAssetMenu(fileName = "Default", menuName = "Default")]
+    public class #SCRIPTNAME# : ScriptableObject
+    {
+
+    }
+}
+
+
